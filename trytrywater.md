@@ -17,3 +17,11 @@
     <br>
         <kbd>(gif: Everyday One Cat🐱)</kbd>
 </p>
+
+<em>强调文本</em><br>
+<strong>加粗文本</strong><br>
+<dfn>定义项目</dfn><br>
+<code>一段电脑代码</code><br>
+<samp>计算机样本</samp><br>
+<kbd>键盘输入</kbd><br>
+<var>变量</var>

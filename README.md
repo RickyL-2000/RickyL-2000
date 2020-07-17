@@ -15,7 +15,7 @@
     </font>
     <br>
     <br>
-    <img width='200' height='200' src="img/EverydayOneCat.gif">
+    <img width='200' height='200' src="https://github.com/RickyL-2000/RickyL-2000/blob/master/img/EverydayOneCat.gif?raw=true">
     <br>
     <font size=1 color='grey'>
         (gif: Everyday One Cat🐱)

@@ -2,7 +2,7 @@
     <br>
     <samp>
     <a href="https://zjui.intl.zju.edu.cn/" target="_blank"> ZJU-UIUC Institute </a>
-    's sophomore student here. 😎
+    's junior student here. 😎
     <br>
         Study Computer Engineering,
     <br>

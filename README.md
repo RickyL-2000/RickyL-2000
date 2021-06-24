@@ -6,7 +6,7 @@
     <br>
         Study Computer Engineering,
     <br>
-    is a rookie for <em>algorithm</em>, <em>NLP</em> and <em>data science</em>. 😜
+    is a rookie for <em>algorithm</em>, <em>TTS</em> and <em>data science</em>. 😜
     </samp>
     <br>
     <br>

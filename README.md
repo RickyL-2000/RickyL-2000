@@ -1,12 +1,11 @@
 <p align="center">
     <br>
     <samp>
-    <a href="https://zjui.intl.zju.edu.cn/" target="_blank"> ZJU-UIUC Institute </a>
-    's senior student here. 😎
+    From Zhejiang University,
     <br>
-        Study Computer Engineering,
+        study Computer Science,
     <br>
-    is a rookie for <em>algorithm</em>, <em>TTS</em> and <em>data science</em>. 😜
+    a rookie for <em>Speech</em>, <em>Singing</em> and <em>NLP</em>. 
     </samp>
     <br>
     <br>

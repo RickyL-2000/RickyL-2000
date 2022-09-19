@@ -1,18 +1,14 @@
-<p align="center">
-    <br>
-    <samp>
-    From Zhejiang University,
-    <br>
-        study Computer Science,
-    <br>
-    a rookie for <em>Speech</em>, <em>Singing</em> and <em>NLP</em>. 
-    </samp>
-    <br>
-    <br>
-        <strong>终身学习！</strong>
-    <br>
-    <br>
-    <img width='200' height='200' src="https://github.com/RickyL-2000/RickyL-2000/blob/master/img/EverydayOneCat.gif?raw=true">
-    <br>
-        <kbd>(gif: Everyday One Cat🐱)</kbd>
-</p>
+# 🌞 Hi, there!
+
+## 😎 Here is something about me. I'm...
+
+* Graduate Student at ZJU, in pursuit of Master's Degree, in CS
+* Studying Speech, Audios and NLP
+* A lazy bodybuilder
+* Humbly hoping to be a lifelong learner
+
+## ✨ Some of my works
+
+### 🎤 Audio and Speech Processing
+
+* [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP), Lichao Zhang, **Ruiqi Li**, Shoutong Wang, Liqun Deng, Jinglin Liu, Yi Ren, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao  |  NeurIPS 2022  |  ![GitHub](https://img.shields.io/github/stars/M4Singer/M4Singer?label=Code%20Stars&style=plastic)
